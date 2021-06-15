@@ -1,7 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
-* Estudiante 1: Jose Vicente Rincón Celis
-* Estudiante 2: Juan Esteban Arboleda Restrepo
+* Estudiante 1: Jose Vicente Rincón Celis - 202013321 - j.rinconc@uniandes.edu.co
+* Estudiante 2: Juan Esteban Arboleda Restrepo - 201921578 - j.arboleda@uniandes.edu.co
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
