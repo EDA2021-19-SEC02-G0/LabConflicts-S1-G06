@@ -82,7 +82,7 @@ while True:
         
 
         # TO-DO: Modificación de Est-2 en el Lab 2
-    
+        
     elif int(inputs[0]) == 2:
         print("Cargando información de tags....")
         tags = loadTags()
