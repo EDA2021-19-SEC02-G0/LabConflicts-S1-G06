@@ -1,4 +1,4 @@
-#ISIS1225 - Estructura de un proyecto
+#ISIS1225 - Estructura de un proyecto#
 
 * Estudiante 1: Jose Vicente Rincón Celis - 202013321 - j.rinconc@uniandes.edu.co
 * Estudiante 2: Juan Esteban Arboleda Restrepo - 201921578 - j.arboleda@uniandes.edu.co
