@@ -81,7 +81,7 @@ while True:
         return controller.loadBooks('GoodReads/book_tags-small.csv')
 
         # TO-DO: Modificación de Est-2 en el Lab 2
-
+        print('Primer libro cargado: ' + str(lt.firstElement(books)))
     elif int(inputs[0]) == 2:
         print("Cargando información de tags....")
         tags = loadTags()
